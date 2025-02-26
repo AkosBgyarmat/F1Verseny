@@ -67,5 +67,6 @@ class Program
         Console.WriteLine("5.feladat:");
         Console.WriteLine($"Győztes: {gyoztes.Nev}, ennyivel nyert: {gyoztes.VersenyIdo}");
         Console.WriteLine("asd");
+        Console.WriteLine("asd2");
     }
 }
